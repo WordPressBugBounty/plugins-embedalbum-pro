@@ -1,0 +1,1 @@
+# plugins-embedalbum-pro
