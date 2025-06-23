@@ -3,8 +3,8 @@ Contributors: embedsocial
 Donate link: 
 Tags: social media feed, social media tools, Facebook reviews, Facebook feed, Instagram feed, embed Facebook album, embed Instagram album, embed Facebook gallery, Instagram stories, Google reviews, Instagram widget
 Requires at least: 4.0
-Tested up to: 6.5
-Stable tag: 1.2.1
+Tested up to: 6.8
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 

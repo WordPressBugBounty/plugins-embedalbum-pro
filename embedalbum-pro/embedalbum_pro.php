@@ -6,7 +6,7 @@ elugin URI: http://www.embedsocial.com
 Description: Social media photos and reviews and feeds on your website
 Author: EmbedSocial
 Author URI: http://www.embedsocial.com
-Version: 1.2.1
+Version: 1.2.2
  */
 defined('ABSPATH') or die("No direct script access allowed.");
 
