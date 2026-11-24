@@ -1,12 +1,14 @@
 <?php
 
 /*
-Plugin Name: EmbedSocial - Platform for social media tools
-elugin URI: http://www.embedsocial.com
-Description: Social media photos and reviews and feeds on your website
+Plugin Name: EmbedSocial: AI Builder for Reviews and Social Media Widgets
+Plugin URI: https://embedsocial.com/integrations/wordpress/
+Description: Build review and social media widgets with AI and show them on WordPress with one shortcode.
 Author: EmbedSocial
-Author URI: http://www.embedsocial.com
-Version: 1.2.2
+Author URI: https://embedsocial.com
+Version: 1.3.0
+Requires at least: 5.0
+Requires PHP: 7.4
  */
 defined('ABSPATH') or die("No direct script access allowed.");
 

@@ -1,242 +1,142 @@
-=== EmbedSocial - Social Media Feeds, Reviews and Galleries ===
+=== EmbedSocial: AI Builder for Reviews and Social Media Widgets ===
 Contributors: embedsocial
-Donate link: 
-Tags: social media feed, social media tools, Facebook reviews, Facebook feed, Instagram feed, embed Facebook album, embed Instagram album, embed Facebook gallery, Instagram stories, Google reviews, Instagram widget
-Requires at least: 4.0
-Tested up to: 6.8
-Stable tag: 1.2.2
+Tags: ai widget, google reviews, reviews widget, social media feed, instagram feed
+Requires at least: 5.0
+Tested up to: 7.1
+Requires PHP: 7.4
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-EmbedSocial allows you to collect and embed social media content on any website automatically.
+Build review and social feed widgets with AI, then show them on WordPress with one shortcode. They update on their own as new content arrives.
 
 == Description ==
 
-Are you looking for a solution that helps you showcase photos, reviews or feeds from social networks right on your website?
+EmbedSocial puts real customer voices on your website. Describe the widget you want in one prompt, connect your review profiles and social accounts, and paste one shortcode into any page. New reviews and posts then appear on your site automatically.
 
-The official WordPress plugin works for all EmbedSocial tools, so you don’t need to install or maintain multiple plugins.
+EmbedSocial is a [social media aggregator](https://embedsocial.com/social-media-aggregator/?utm_source=wporg&utm_medium=readme&utm_campaign=intro): it collects your reviews, posts and videos from every network in one account, where you moderate them and turn them into widgets. This plugin is the [WordPress connector](https://embedsocial.com/integrations/wordpress/?utm_source=wporg&utm_medium=readme&utm_campaign=intro) that displays those widgets on your site.
 
-[EmbedSocial.com](https://embedsocial.com) is a social proof platform that enables agencies, businesses and marketers to aggregate all their social media content. You can store, moderate, analyze and publish user-generated content widgets in real-time on any WordPress website.
+**Quick links:** [Website](https://embedsocial.com/?utm_source=wporg&utm_medium=readme&utm_campaign=links) | [Widgets](https://embedsocial.com/widgets/?utm_source=wporg&utm_medium=readme&utm_campaign=links) | [Live widget demos](https://embedsocial.com/templates/?utm_source=wporg&utm_medium=readme&utm_campaign=links) | [Help center](https://embedsocial.com/docs/?utm_source=wporg&utm_medium=readme&utm_campaign=links) | [Pricing](https://embedsocial.com/pricing/?utm_source=wporg&utm_medium=readme&utm_campaign=links)
 
-EmbedSocial supports Instagram, Facebook, TikTok, Google, Twitter, Vimeo, Yelp, and YouTube, and we continually add integrations with other social media networks.
+= Key features =
 
-With EmbedSocial, you don't need any coding skills to embed beautiful widgets on your website.
- 
-==EmbedReviews==
-**Social Media Reviews Plugin** 
+* **AI widget builder.** Turn a single prompt into a fully designed widget. Use any prompt or image to describe the look you want, and get a carousel, slider, gallery, testimonial or shoppable layout in seconds.
+* **AI editor.** Refine the design with AI, then fine tune every setting yourself: layout, colors, fonts, spacing, header and custom CSS.
+* **Template library.** Start from a ready-made template for reviews, social feeds, social walls, badges and shoppable galleries.
+* **Reviews widgets.** Show reviews from Google, Facebook, Yelp and Trustpilot, alone or combined in one widget, with rating filters, review photos and a rating badge.
+* **Social media feeds.** Display posts, Reels, Stories and videos from Instagram, Facebook, TikTok, YouTube, LinkedIn, X (Twitter) and Vimeo, or mix them into one social wall.
+* **Hashtag and mention feeds.** Bring in the content your customers create about your brand.
+* **Shoppable links.** Tag products on posts and reviews, add buy buttons and send visitors straight to the product page.
+* **Moderation.** Approve or hide any post or review, and filter by keyword, rating or date so every widget stays on brand.
+* **Widget analytics.** See views and clicks for every widget and find out which posts and reviews drive engagement.
+* **Automatic sync.** New content appears on your site without manual updates.
+* **Review collection.** Add a "Leave a review" button and web forms to gather new reviews.
+* **Official APIs.** Every source connects through the platform's official API, with no scraping.
+* **Unlimited widgets.** Create as many widgets as you need and embed them on all your websites.
+* **Built for agencies.** Manage client workspaces and widgets from one dashboard.
+* **Works with any theme and builder.** Use the shortcode in the block editor, Elementor, Divi or any builder that accepts shortcodes.
 
-Generate and display social media reviews on any website. All in one place.
+Loved by 400,000+ brands. Every paid plan starts with a 7-day free trial. [Compare plans](https://embedsocial.com/pricing/?utm_source=wporg&utm_medium=readme&utm_campaign=plans).
 
-[LEARN MORE](https://embedsocial.com/products/reviews/) | [DEMO](https://embedsocial.com/templates/reviews/) | [FREE TRIAL](https://embedsocial.com/admin/continue_plugin_purchase/reviews29/trial)
+= See it live =
 
-EmbedReviews is an online reputation management software that allows businesses to manage all their online reviews on one dashboard. It’s designed so you can easily and conveniently engage with your customers post-purchase. Get a real-time breakdown of Google My Business, Facebook, Yelp reviews, and more - in one place!
+* [Google reviews slider](https://embedsocial.com/templates/google-reviews-slider/?utm_source=wporg&utm_medium=readme&utm_campaign=demo)
+* [Floating reviews badge](https://embedsocial.com/templates/floating-google-reviews-badge/?utm_source=wporg&utm_medium=readme&utm_campaign=demo)
+* [Social wall](https://embedsocial.com/templates/social-wall-widget/?utm_source=wporg&utm_medium=readme&utm_campaign=demo)
+* [Masonry feed](https://embedsocial.com/templates/instagram-feed-masonry-widget/?utm_source=wporg&utm_medium=readme&utm_campaign=demo)
+* [TikTok video slider](https://embedsocial.com/templates/tiktok-slider-widget/?utm_source=wporg&utm_medium=readme&utm_campaign=demo)
+* [Shoppable grid](https://embedsocial.com/templates/shoppable-grid/?utm_source=wporg&utm_medium=readme&utm_campaign=demo)
 
-It's more than just a Google reviews plugin! You can combine your Google places reviews with all the reviews from other sites and display a combo widget on your website. It works smoothly with any WordPress theme.
- 
-**Benefits**
+For a step by step setup, read our guide to [showing Google reviews on WordPress](https://embedsocial.com/google-reviews-widget/wordpress/?utm_source=wporg&utm_medium=readme&utm_campaign=learn).
 
-* Put the social media review collection process on autopilot and save tons of time
-* Embed Facebook and Google Reviews on any website in seconds and without coding skills
-* Respond to each customer review, automatically
-* Streamline your online presence and let new customers find you faster.
- 
-**Features**
+= Shortcodes =
 
-* Reviews management - Don't run back and forth. Your best WordPress plugin allows you to manage and respond to your customer testimonials from one spot
-* Photo reviews - A photo tells a thousand words. Let your customers share your products from Google places in action.
-* Unlimited widgets - Show your reviews from all sources in one place. Combine your Google reviews, Facebook reviews, and other business reviews in a single widget
-* Reviews generator - No more manual copy-pasting of long reviews. Just provide simple permissions to your social media and review site accounts and let the system fetch all your reviews
-* Review requests - Send review requests via email and SMS to get feedback and earn your customer's trust with customer interactions.
-* Google rich snippets - Use aggregated star rating snippets (schema code) for your WordPress site to improve local SEO and dominate search engine results. Let your 5-star rating shine bright.
-* Moderation - Handpick which reviews you want to appear on your website
-* Customization options - Choose from over 10 markup layouts and templates or level up with the custom CSS functionality and make matching widgets with your WordPress theme
-* Web collection forms - Create unlimited review forms with the reviews plugin. Embed a 'Leave a review' button and start getting more reviews from your website
-* Notifications - Don't check for new Google business reviews on your sidebar. Get alerts every time someone writes a review.
- 
-**Settings**
+Each widget in your EmbedSocial account comes with its own shortcode, for example `[embedsocial_reviews id="YOUR_WIDGET_ID"]` or `[embedsocial_feed id="YOUR_WIDGET_ID"]`. Copy it from the widget editor and paste it into any page, post or widget area. Older shortcodes keep working.
 
-* Set the number of Reviews per page and Number of pages
-* Create combo widgets 
-* Create Google reviews widget
-* Display reviews with a Minimum rating, from 1 to 5
-* Set your reviews WordPress plugin for your eCommerce store
-* Set Google places API key
-* Sort by: Likes, Comments, Rating
+== External services ==
 
-**Layout & Design** 
+This plugin connects to EmbedSocial (embedsocial.com) to display the widgets you create in your EmbedSocial account. Nothing is contacted on activation or in the dashboard. A connection happens only when a visitor opens a page that contains an EmbedSocial shortcode.
 
-* Choose from many different Layout template and sliders suitable to your web site design
-* Setup the reviews Padding size in the boxed layouts 
-* Customize the title
-* Choose color scheme
+* **What loads:** the widget script from `https://embedsocial.com/embedscript/` and the widget content, plus badge images and iframes from `https://embedsocial.com/api/` when a badge shortcode is used.
+* **What is sent:** the widget ID, plus what any browser sends when loading a file (IP address, user agent and the page address). The plugin stores no visitor data in WordPress.
 
-**Setup your WordPress reviews management platform:**  
-Get your business reviews rolling in with a simple five-step setup:
-
-* Choose your pricing plan and sign in to your EmbedReviews account
-* Connect your Google and Facebook accounts
-* Auto-generate your social media reviews
-* Create and customize widgets
-* Copy the code and paste/embed it into your website
-
-
-==EmbedFeed==
-**Social Media Aggregation Plugin**
-Sync your social media page feeds and hashtag campaigns to your website with one line of code.
-
-[LEARN MORE](https://embedsocial.com/social-media-aggregator/) | [DEMO](https://embedsocial.com/blog/templates/embedfeed/) | [FREE TRIAL](https://embedsocial.com/admin/continue_plugin_purchase/socialfeed29/trial)
-
-EmbedFeed is a complete WordPress plugin and social media aggregator that lets you display your Facebook posts, mentions, videos, and hashtag feeds from any social media on your website with just one tap.
-Embed Feed makes it easy for your website visitors to stay up-to-date with what you or other people are saying about your brand no matter where they're going online.
-
-Simple yet complete plugin that includes multiple sources:
-
-* Instagram feed plugin - It's synced with the Instagram API and automatically pulls Instagram content and displays it on your website
-* Facebook page plugin - Automatically generates several Facebook post types to your website without the hassle of clicking the share button hundreds of times or inserting Facebook pixels
-* YouTube plugin - Direct integration with YouTube to generate channel or playlist videos and embed them in any WordPress websites.
-
-It's an affordable solution, easy to set up and use – no coding skills needed!
-
-**Benefits**
-
-* Saves time and money for content production
-* Promotes your products in a more eye-catching and engaging way
-* Improves your SEO and brand presence
-* Empowers conversion when adding CTA buttons on your posts
-* Promotes your social media account and turns website visitors into followers
-* No coding skills required to create an outstanding mobile responsive widget
-* Works with any wordpress.org website
- 
-**Features**
-
-* Customizable layouts - With 10+ customizable layouts at your disposal, you can easily find out what fits best your website's look and feel
-* Unlimited widgets - It has never been easier to create unlimited widgets. Embed your favorite social media posts on various websites
-* Video feed - Display posts of your favorite YouTube, TikTok, and Vimeo videos in one place, set thumbnails, and let them auto-sync
-* Hashtags feed - Create combo feeds from Facebook, Twitter, Instagram posts, tagged with specific hashtags
-* Shoppable feed - Tag photos with your products or add CTA buttons on posts to make your widget shoppable
-* Advanced analytics - See your widget performance, which post performs best, and the total clicks of the entire feed on your website.
-* Custom feed - Create your custom feed from Instagram, Twitter, LinkedIn, Messenger, or custom Facebook feed. Create and display the feeds your way! 
-
-**Settings** 
-
-* Number of posts to display in the feed
-* Dynamic and fixed feeds width
-* Include full post or just images
-* Filter your posts by date or keywords (including negative keywords)
-* Monitor all your brands mentions in one place
-
-**Setup Social Media Aggregator For WordPress:**
-It's easy to set up and even easier to use:
-
-* Sign up to EmbedFeed and connect your social media account
-* Customize and modify your feed
-* Copy the code and paste it into your website
-
-
-==EmbedAlbum==
-**Facebook Albums & Galleries Plugin**
-Combine, manage, and show your Facebook, Twitter, and Instagram Albums & Galleries
-
-
-[LEARN MORE](https://embedsocial.com/facebook-albums/) | [DEMO](https://embedsocial.com/blog/templates/embedalbum/) | [FREE TRIAL](https://embedsocial.com/admin/continue_plugin_purchase/embedalbum/trial)
-
-This gallery plugin helps you display Facebook, Twitter, and Instagram photos on your website with simple copy/paste codes.
-
-This is the only plugin that you will ever need to display a social photo feed on your WordPress website. It enables you to add albums from Facebook, Twitter, and Instagram accounts or hashtags, create feed widgets, and generate codes you can easily embed on your website.
-
-Your embedded albums will automatically update every time a photo is added to your social network accounts.
-
-Create an account on [EmbedSocial.com](https://embedsocial.com) and start embedding your social media albums.
-
-**Benefits**
-
-* No more hosting, cropping, and manually managing Facebook and Instagram gallery for your website
-* No need for any coding skills. Just use a simple shortcode to display an album in a widget area
-* Get more spacing with the automation functionality and get your latest Instagram and Facebook content generated on autopilot
-* Take full control and manage multiple albums for your WordPress site, change display settings from a single platform.
-
-**Features**
-
-* Facebook widget albums - Automatically generate your photos in a fabulous Facebook widget for your WordPress page
-* Instagram widget albums - Display the best Instagram images of your Instagram profile in their original image size
-* Twitter albums - Choose awesome hashtags and let tweets make your best WordPress theme even cooler
-* Facebook gallery - All your social sharing photos in one place and make an enjoyable view for your website visitors
-* Link in bio - Display your own Feedlink.io URL in your Instagram bio to direct Instagram followers with clickable links to product pages or blog posts
-* Customization option - Choose a carousel, grid, slider, sidebar, Facebook and Instagram slider widget, or any other predefined template and layout options. Or level up the game and customize with CSS.
- 
-**Settings**
-
-* Set the number of Photos per page
-* Set pagination
-* Set the number of columns
-* Set dynamic and fixed Photo width
-* Order by date
-* Display photos in a Lightbox
-* Show popup Like button (Like box)
-* Show full-length captions
-
-**Setup your social media photos WordPress plugin:**
-
-* Easily set up your plugin in three steps:
-* Connect your Facebook account and your Instagram user account
-* Create and configure outstanding widgets
-* Embed the shortcode on your WordPress website
-
-
-**Layout & Design** 
-
-* Choose from a large set of layout templates - Grid, Masonry, Three column, Row
-* Grid, Slideshow
-* Photo width and padding
-* Pagination or lazy loading
-* Customize title
- 
-**Examples of how you can use EmbedAlbum:**
-
-* Photo gallery from Facebook page albums - [Demo](https://embedsocial.com/templates/facebook-gallery/)
-* Instagram username photos  - [Demo](https://embedsocial.com/templates/instagram-gallery/)
-* Slideshow - [Demo](https://embedsocial.com/templates/facebook-slideshow/) 
-* Collage layout - [Demo](https://embedsocial.com/templates/social-media-feed-wordpress/)
-
-
-==FREE PLUGINS==
-
-* [Facebook Album Plugin](https://embedsocial.com/facebook-gallery-plugin/)
-* [Instagram Feed Plugin](https://embedsocial.com/products/free-social-media-aggregator/)
-
-==FAQ==
-
-1. **Can I have a free plugin?** - Yes, we provide free versions and also a 7-day free trial for each plugin. You can experience the perks of our awesome tools risk-free.
-2. **Can I use only the Facebook plugin?** - Yes, there are no limits! You can use some or all of the features and benefits of the plugins - use it as you wish.
-3. **Which pricing plans are available?** - For all the plugins, we have three plans: Pro version, Pro Plus, and Premium version. For all the details check the pricing page.
-4. **Who is this plugin for?** - This plugin is for anyone that has a WordPress website, no matter if you're an eCommerce or small business.
-5. **Can I pull multiple hashtag posts with this WordPress Instagram plugin?** - Sure! EmbedSocial is one of the best Instagram plugins allowing you to pull feeds from Instagram account, hashtags, and mentions.
-6. **Can I see some tutorials?** - Of course! You can find all the tutorials on our YouTube channel.
-
+[Terms of Service](https://embedsocial.com/terms-of-service/) | [Privacy Policy](https://embedsocial.com/privacy-policy/)
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/embed-social-wp-gallery` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
-3. To use this plugin you need to have an account on [EmbedSocial.com](https://embedsocial.com)
+1. In your WordPress dashboard, go to **Plugins > Add New Plugin**.
+2. Search for "EmbedSocial", then click **Install Now** and **Activate**.
+3. Sign in to your [EmbedSocial account](https://embedsocial.com/integrations/wordpress/?utm_source=wporg&utm_medium=readme&utm_campaign=install) or start a 7-day free trial.
+4. Connect your review profiles or social accounts, then create a widget.
+5. Copy the widget's shortcode and paste it into a Shortcode block, a page builder module or a widget area.
+6. Publish the page. Your widget appears and keeps itself up to date.
+
+To install manually, upload the plugin folder to `/wp-content/plugins/` and activate it from the **Plugins** screen.
+
+== Frequently Asked Questions ==
+
+= Do I need an EmbedSocial account? =
+
+Yes. You create and manage widgets in your EmbedSocial account, and the plugin displays them on WordPress. Every paid plan starts with a 7-day free trial.
+
+= How do I add Google reviews to WordPress? =
+
+Connect your Google Business Profile in EmbedSocial, create a reviews widget and paste its shortcode into any page. New reviews then appear automatically. The [step by step guide](https://embedsocial.com/google-reviews-widget/wordpress/?utm_source=wporg&utm_medium=readme&utm_campaign=faq) walks through every screen.
+
+= How do I embed a social media feed? =
+
+Connect the account or hashtag you want to show, pick a layout and paste the shortcode. You can combine several networks into one social wall. See the [WordPress integration guide](https://embedsocial.com/integrations/wordpress/?utm_source=wporg&utm_medium=readme&utm_campaign=faq).
+
+= Can I combine reviews from different sources in one widget? =
+
+Yes. One widget can show reviews from Google, Facebook, Yelp, Trustpilot and reviews you collect with EmbedSocial forms.
+
+= Does it work with my theme and page builder? =
+
+Yes. Widgets work with any theme, and the shortcode works in the block editor, Elementor, Divi and other builders that accept shortcodes.
+
+= Can I design a widget with AI? =
+
+Yes. Describe the widget in a prompt or upload an image of a design you like, and the [EmbedSocial widget builder](https://embedsocial.com/widgets/?utm_source=wporg&utm_medium=readme&utm_campaign=faq) creates it with AI. You can then adjust every detail in the editor.
+
+= Will the widgets slow down my site? =
+
+Widget scripts load in the page footer, and the reviews widget supports `lazyload="yes"` so it loads only when a visitor scrolls to it.
+
+= Does the plugin contact external servers? =
+
+Only when a visitor opens a page that contains an EmbedSocial shortcode. Nothing is contacted on activation. The External services section above explains what is loaded and what data is sent.
+
+= Where can I find help? =
+
+Visit the [EmbedSocial help center](https://embedsocial.com/docs/?utm_source=wporg&utm_medium=readme&utm_campaign=faq) or contact our support team from inside your EmbedSocial account.
+
+= Is EmbedSocial affiliated with the platforms it connects to? =
+
+No. Google is a trademark of Google LLC. Instagram and Facebook are trademarks of Meta Platforms, Inc. TikTok, YouTube, LinkedIn, X, Yelp, Trustpilot and Vimeo are trademarks of their respective owners. EmbedSocial is an independent product and is not endorsed by or affiliated with these companies. Platform names are used only to describe which sources the plugin can display.
 
 == Screenshots ==
 
-1. Dashboard
-2. Social media integrations
-3. Editor Settings
-4. Shoppable Feed 
-5. Widgets
-6. Reviews sources
+1. Describe your widget in a prompt and the AI builder creates it.
+2. Refine the design with AI in the editor and see changes live.
+3. Tag products on any post and add buy buttons.
+4. Visitors shop tagged products straight from your posts.
+5. Widget analytics with visits, post clicks, link clicks and click-through rate.
+6. Create unlimited widgets and manage them in one dashboard.
 
 == Changelog ==
 
+= 1.3.0 =
+* Renamed the plugin to "EmbedSocial: AI Builder for Reviews and Social Media Widgets".
+* Added the minimum PHP version (7.4) to the plugin header and readme.
+* Documented the external services the plugin uses, with links to the terms and privacy policy.
+* Synced the plugin version and the readme stable tag.
+* New banner and screenshots.
+
 = 1.1 =
-* Embed Albums, Stories and Reviews
+* Added albums, Stories and reviews widgets.
 
 == Upgrade Notice ==
 
-= 1.0 =
-Upgrade to use the latest features
-
-`<?php code(); // goes in backticks ?>`
+= 1.3.0 =
+New plugin name, documented shortcodes and external services. No changes to your existing widgets or shortcodes.
